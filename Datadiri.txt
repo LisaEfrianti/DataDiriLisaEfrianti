@@ -2,3 +2,5 @@ Nama : Lisa Efrianti
 NIM : 1829142035
 Kelas : TEKOM B
 Kota Asal : Jeneponto
+
+Jenis Kelamin : Perempuan
